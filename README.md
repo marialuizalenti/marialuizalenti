@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello World, I'm Maria Luiza! 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marialuizalenti&theme=tokyonight_duo&border_radius=5)](https://git.io/streak-stats)
 <!--
 **marialuizalenti/marialuizalenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
