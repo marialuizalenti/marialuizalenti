@@ -11,6 +11,7 @@ Still a beginner in programming, but always looking to improve. Despite the pref
 <h2> My GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=marialuizalenti&show_icons=true&theme=tokyonight"  heigth="450" width="450"/>
+  <img src="https://media.giphy.com/media/APIyQuymmvSCp2TvS7/giphy.gif" width="100"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuizalenti&langs_count=8&layout=compact&theme=tokyonight" heigth="450" width="450"/>
 </div>
 
