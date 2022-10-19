@@ -1,17 +1,16 @@
 <h1>Hello World, I'm Maria Luiza! 👋</h1>
 
 <img src="https://github.com/marialuizalenti/marialuizalenti/blob/main/imgs/octocatMalu.png" width="200" align="right"/>
-<h2>About me:</h2>
+<h2>About me:  <img src="https://media.giphy.com/media/APIyQuymmvSCp2TvS7/giphy.gif" width="40"/></h2>
 <em>
 Computer Science student and passionate about technology.
 I like to read in my free time and would like to have more time and money to travel. 
 Still a beginner in programming, but always looking to improve. Despite the preference for front-end, I am open to working with differents areas that technology has.
 </em>
 
-<h2> My GitHub Stats</h2>
+<h2> My GitHub Stats <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"/></h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=marialuizalenti&show_icons=true&theme=tokyonight"  heigth="400" width="400"/>
-  <img src="https://media.giphy.com/media/APIyQuymmvSCp2TvS7/giphy.gif" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuizalenti&langs_count=8&layout=compact&theme=tokyonight" heigth="400" width="400"/>
 </div>
 
