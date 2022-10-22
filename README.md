@@ -27,3 +27,4 @@ Still a beginner in programming, but always looking to improve. Despite the pref
   
 ![Snake animation](https://github.com/marialuizalenti/marialuizalenti/blob/output/github-contribution-grid-snake.svg)
 
+
