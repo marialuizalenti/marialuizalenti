@@ -10,7 +10,8 @@ Still a beginner in programming, but always looking to improve. Despite the pref
 
 <h2> My GitHub Stats <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"/></h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marialuizalenti&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marialuizalenti&show_icons=true&theme=omni" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuizalenti&langs_count=8&layout=compact&theme=omni" width="335"/>
 
 </div> 
 
