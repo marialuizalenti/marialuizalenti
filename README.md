@@ -25,6 +25,6 @@ Still a beginner in programming, but always looking to improve. Despite the pref
 <a href="https://www.linkedin.com/in/marialuizalenti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-![Snake animation](https://github.com/marialuizalenti/marialuizalenti/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/marialuizalenti/marialuizalenti/blob/output/github-contribution-grid-snake.svg)-->
 
 
